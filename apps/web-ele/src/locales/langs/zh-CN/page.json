@@ -10,5 +10,10 @@
     "title": "概览",
     "analytics": "分析页",
     "workspace": "工作台"
+  },
+  "novelManagement": {
+    "title": "小说管理",
+    "novelList": "小说列表",
+    "chapterList": "章节列表"
   }
 }
