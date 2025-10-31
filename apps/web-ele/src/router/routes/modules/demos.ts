@@ -29,6 +29,14 @@ const routes: RouteRecordRaw[] = [
         path: '/demos/form',
         component: () => import('#/views/demos/form/basic.vue'),
       },
+      {
+        meta: {
+          title: $t('demos.salaryValidation'),
+        },
+        name: 'SalaryValidation',
+        path: '/demos/salary-validation',
+        component: () => import('#/views/demos/form/salary-validation.vue'),
+      },
     ],
   },
 ];
