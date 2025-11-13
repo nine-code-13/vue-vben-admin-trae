@@ -10,5 +10,10 @@
     "title": "Dashboard",
     "analytics": "Analytics",
     "workspace": "Workspace"
+  },
+  "novelManagement": {
+    "title": "Novel Management",
+    "novelList": "Novel List",
+    "chapterList": "Chapter List"
   }
 }
